@@ -18,7 +18,7 @@ Analysis of COVID-19 cases, deaths, and vaccination progress comparing Kenya, In
 
 ## How to Run
 1. Clone this repository:
-   git clone
+   git clone https://github.com/Bree0001/covid-19.git
 2. Install requirements:
    pip install pandas matplotlib seaborn plotly
 3. Open and run `covid_19 data analysis.ipynb` in Jupyter Notebook
